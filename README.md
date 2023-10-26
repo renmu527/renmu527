@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @renmu527
-- 👀 I’m interested in C
-- 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on C
-- 📫 How to reach me C
+-  Hi, I’m @renmu527
 
 <!---
 renmu527/renmu527 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
